@@ -3,3 +3,5 @@ plotly-express==0.4.1
 plotly==5.11.0
 pandas==1.5.1
 openpyxl==3.0.10
+streamlit-folium==0.6.15
+folium==0.13.0
